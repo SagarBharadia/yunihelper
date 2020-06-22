@@ -1,0 +1,78 @@
+-----ORGANISATION-----
+ABOUT US
+What started as a small project to learn a new framework, led to a fully fledged application which helps manages your university experience. We are a small team, two to be precise, who have pride in this application and will be constantly developing it upon the feedback received and features you, the users, suggest!
+
+Add a lifecycle element thiny majigy like a timeline
+
+MEET THE TEAM
+Our team currently consists of two people. The designer and the developer!
+
+--left right modal design that opens down--
+Developer
+Sagar Bharadia
+Sagar is the developer of YuniHelper and the initiator for the project! He is a coding fanatic and loves all things tech. Lover of coffee and donuts. Computer Science student at De Montfort University.
+His full set of skills include; HTML, CSS, PHP (incl. Laravel) and Js(incl. jQuery).
+
+Designer
+Jamie Whittaker
+Jamie is the resident designer helping shape up the look of the dashboard by completing the final touches to make it stand out and user friendly. Avid musician, both using digital software (like fruity loops) and the guitar! He loves some maccies after a night out (who doesn't?) and is a Computer Science student at De Montfort University.
+
+-----PRODUCT-----
+WHY USE US
+Now comes the make or break question, why use us? To put it blunt, we aren't a large corperation who think we're better than everyone else! We ourselves are university students who probably understand the university life currently more than others. We will use your feedback to improve the service and hopefully create a all in one tool to help you manage your life throughout university! We will read your feedback and emails (however many there are) as we value what you, the user, has to say!
+
+This being said, we are university students and this project was also created to help begin our portfolio! We do place advertisments, 1 per page on the dashboard to help pay for the servers we use which are currently $5 / £3.82 a month. We kindly request you do not use a adblocker on our website to help us pay for the services we require to run this service!
+
+FEATURES
+Notes - Using our notes storing system you can write up your notes online and access them from anywhere! Yes even from your mobile (this is the 21st century, you thought we wouldn't be responsive?!)
+Assignments - With the assignments service you are able to keep track of the assignments you have and haven't done letting you easily manage your assignments ensuring you dont miss any, and if you do, better get cracking and get them in!
+Finance - Using our financial management system, you can track your purchases easily and with our soon to oome budgeting tool you'll be able to do even more. Don't worry, we dont ask you for your banking details to use this feature, you just have to be honest with yourself! (responsibilities a scare, we know!)
+ToDo List - Who doesn't love a good ol' todo list? Easy to use, easy to see, great for quick small tasks that you need to remember to get done!
+Your feature could be here! Got a idea that you would like to see us develop and add? Let us know! We will take a look at the idea and let you know whether it is pheasable for us to implement (more than likely it will be, fingers crossed!)
+
+PRIVACY POLICY
+This privacy policy will describe how YuniHelper uses the information that you have provided to us and the information we collect and its use. By registering with the YuniHelper service you consent to the terms listed in this Privacy Policy. By registering with YuniHelper you are aware the data is stored (as of Tuesday 21st November 2017) in England, United Kingdom, and the consent to the laws where the data is stored irrelevant of the country where you live. By registering and using our service you consent to the collection, manipulation, storage and other uses of your information as described in this privacy policy.
+Some of the data laws where the data is stored may vary from the data laws of the country where you live and we encourage you to research the privacy and data protection laws if you are interested and/or concerned. Throughout this privacy policy the use of the terms "we", "our", "us" refer to the YuniHelper organisation.
+
+Information Collection and Use
+
+Creating a account with YuniHelper and Profile Information: When you create a YuniHelper account, you will be required to provide us with access credentials in the form of a username and password. You can update or modify your account and profile information at any time. No account or profile information is available publicly.
+
+Contact information: In addition to using your contact information while creating your account, we may also use this information to forward new information about our services to you, respond to requests/feedback and help facilitate other uses of our services. The contact information you have provided during registration is not publicly available however it may be required to use some features we may create at a later stage such as finding friends.
+
+Links: YuniHelper may collect statistics of the links that circulate redirecting to us or one of our services. These links can range from our email notifications/newsletters, redirecting clicks (for example how many times users use the notes feature). We do this to help improve the service we provide, such as tracking the most popular component of our application.
+
+Cookies: Along with many other websites, YuniHelper also use 'cookies' to collect how the website is used and to improve the user experience. For the most part, we do not require cookies to run the service and its features such as storing and viewing assignments.
+li - What is a cookie? A cookie is a very small file that is transferred to your computer's hard disk drive from the server. 
+We may use persistent cookies (cookies that stay on your hard disk drive for a set period of time) or session based cookies (cookies which destroy after the user logs out of the service) to customize and improve our services. Many web browsers availible automatically accept the usage of cookies. If cookies do not appeal to you and you would like to disable the use of cookies on yunihelper (strongly discouraged) or other websites you can change the settings in your web browser to stop accepting cookies completely or to prompt you before accepting the cookie. If cookies are disabled on YuniHelper some features may not work properly. For ease of access we have linked cookie information on some popular browsers below.
+
+https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences
+
+https://support.google.com/chrome/answer/95647?co=GENIE.Platform%3DDesktop&hl=en
+
+https://support.microsoft.com/en-gb/help/17442/windows-internet-explorer-delete-manage-cookies
+
+https://privacy.microsoft.com/en-us/windows-10-microsoft-edge-and-privacy
+
+Log Data: The servers we use may record information called 'Logs'. The Logs may include information such as your browser, ip address, the operating system, any cookie information and more. These log informations are recieved whenever you interact with the services we provide. We use this log data in events of error and seek the problem source from the log to be able to fix it. We will aim to delete the log data atleast once per 12 months.
+
+Third-Party services: To help function, we use third-party services. We use third-party services to host the website and also runs ads on the website which help pay for the services we provide. The third party-services may collect your ip address, pages viewed or links clicked and more. Our service providers include Digital Ocean and Google Ads.
+
+Information Sharing and Disclosure
+
+The information that you have provided during the registration of an account with us and the information that is created with our features (for example, a note) will not be shared to others without your consent. At the present we do not share any information that you have given to us publicly.
+
+In Regards to Law and Harm
+In contrary to all listed in this policy, we may disclose or preserve information that you have given to us if we believe that it is necessary to make sure we are in compliance with a law, regulation or a legal request. This may be in the event to protect the safety of any person, to address fraud, security and/or technical issues, or to protect the rights or property of YuniHelper. Nothing in this Privacy Policy is intended to limit any legal defense or questions that you may have to a third-party's request to disclose your information. 
+
+Transfer of information
+Where in the case the YuniHelper is; forced to declare bankruptcy, merge with another entity, acquisition or sale of assets, the information you have provided us with may be sold or transferred as part of the contract. The promises and statements within this privacy policy will apply to the data as it is transferred to the new entity.
+
+Modifying your personal information
+
+As a registered user of YuniHelper, you will be able to modify the information you have provided to us that is associated with your account. These features are availible through the settings tab.
+
+Changes to this privacy policy
+This privacy policy may be revised from time to time with the most up to date and effective version being permanently availible at https://yunihelper.me/privacypolicy . We encourage you to check back to the data policy often to see if it has changed. We will attempt to notify you of any changes that we deem appropriate and to be of importance to notify the users about. By continuing to use and access YuniHelper after the privacy policy has been changed and effective, you agree to the new privacy policy.
+
+Effective: November 22, 2017
